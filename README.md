@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Darkbriks
+- 👀 I’m interested in video game programing
+- 🌱 I’m currently learning C++ and C#
